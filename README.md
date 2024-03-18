@@ -7,14 +7,14 @@
 ##### :man_technologist: I worked at Exisoft, Technisys and Veritran as middleware developer, technical or functional analyst. Acquiring experiences and using a few plataforms, lenguajes, tools such as: 
 
 <ul>
-<li>SQL (MySql, Oracle, SqlServer)
-.NET (C#, LinQ)</li>
-
-<li>Web Services, REST Services
-API Interfaz</li>
-
-<li>Testing with Postman, SoapUI
-CI/CD with TeamCity.</li>
-
+<li>SQL (MySql, Oracle, SqlServer)</li>
+<li>.NET (C#, LinQ)</li>
+<br/>
+<li>Web Services, REST Services</li>
+<li>API Interfaz</li>
+<br/>
+<li>Testing with Postman, SoapUI</li>
+<li>CI/CD with TeamCity.</li>
+<br/>
 <li>Soft Skills</li>
 </ul>
