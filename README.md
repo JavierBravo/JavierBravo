@@ -4,7 +4,7 @@
 ##### :round_pushpin: From Buenos Aires.
 ##### :books: I'm currently studying Back-End development with Java.
 ##### :technologist: Ssr Integration Middleware developer.
-##### :man_technologist: I worked at Exisoft, Technisys and Veritran as middleware developer, technical or functional analyst. In these jobs, I gained experience and used some plataforms, lenguajes, tools such as: 
+##### :man_technologist: I worked at Exisoft, Technisys and Veritran as middleware developer, technical or functional analyst. In these jobs, I gained experience and used some plataforms, languajes, tools such as: 
 
 <ul>
 <li>SQL (MySql, Oracle, SqlServer)</li>
